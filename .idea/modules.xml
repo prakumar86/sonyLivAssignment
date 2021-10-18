@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SonyLivAppAssignment.iml" filepath="$PROJECT_DIR$/.idea/modules/SonyLivAppAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SonyLivAppAssignment.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SonyLivAppAssignment.app.iml" />
+    </modules>
+  </component>
+</project>
